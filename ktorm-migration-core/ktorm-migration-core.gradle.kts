@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-    api("org.ktorm:ktorm-core:3.5.0-SNAPSHOT")
+    api("org.ktorm:ktorm-core:3.5.0")
     testImplementation("com.h2database:h2:1.4.197")
 }
 
